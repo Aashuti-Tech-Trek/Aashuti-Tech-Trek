@@ -1,4 +1,4 @@
-# Hello, World! 👋
+# Hello 👋
 
 Welcome to my GitHub profile!
 I'm Aashuti, a budding tech enthusiast with a passion for coding and problem-solving
